@@ -22,10 +22,12 @@ I assess:
 ## Running the Project
 To run the notebook:
 1. Clone the repository:
+
         git clone https://github.com/brice1101/propaganda-detection.git
-2. Open the notebook:
+3. Open the notebook:
+
         jupyter notebook propaganda_detection.ipynb
-4. Run all cells sequentially.
+5. Run all cells sequentially.
 
 ## References
 <a id="1">[1]</a>
