@@ -29,6 +29,6 @@ To run the notebook:
 
 ## References
 <a id="1">[1]</a>
-G. Da San Martino, A. Barrón-Cedeño, H. Wachsmuth and P. Nakov, “SemEval-2020 Task 11: Detection of Propaganda Techniques in News Articles,” Proceedings of the Fourteenth Workshop on Semantic Evaluation, 2020.
+G. Da San Martino, A. Barrón-Cedeño, H. Wachsmuth and P. Nakov, “SemEval-2020 Task 11: Detection of Propaganda Techniques in News Articles,” Proceedings of the Fourteenth Workshop on Semantic Evaluation, 2020.<br>
 <a id="2">[2]</a>
 J. Devlin, M.-W. Chang, K. Lee and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” Arxiv, 2018. 
