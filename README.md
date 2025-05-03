@@ -12,6 +12,7 @@ The full implementation is available in the form of a Jupyter Notebook, with acc
 In the original SemEval task, the goals were:
 - **Span Identification** - Detecting specific text fragments containing propaganda.
 - **Technique Classification** - Identifying the technique used in a given span.
+  
 This project adapts these into a simplified and more practical form:
 - **Binary classification** at the sentence level.
 - **Multi-class classification** at the snippet level, assuming the span is already identified.
